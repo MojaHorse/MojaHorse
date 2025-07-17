@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @MojaHorse
+- 👋 Hi, I’m Mosa David Lichaba
 - 👀 I’m interested in app development
 - 🌱 I’m currently learning web development
 - 💞️ I’m looking to collaborate on ...
